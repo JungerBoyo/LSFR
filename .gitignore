@@ -1,0 +1,4 @@
+*.code-workspace
+out_.txt
+zig-cache/
+zig-out/
